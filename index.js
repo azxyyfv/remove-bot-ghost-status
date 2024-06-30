@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["protecting azxyy's world, made by azxyy, #1 rewards bot"];
+const statusMessages = ["protecting azxyy's world", "made by azxyy", "#1 rewards bot"];
 
 
 let currentIndex = 0;
